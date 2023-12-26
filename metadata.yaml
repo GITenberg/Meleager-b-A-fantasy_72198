@@ -1,0 +1,37 @@
+_repo: Meleager-b-A-fantasy_72198
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vaughan, Herbert M. (Herbert Millingchamp)
+    aliases:
+    - Vaughan, Herbert Millingchamp
+    - Vaughan, H. M.
+    birthdate: 1870
+    deathdate: 1948
+    gutenberg_agent_id: '34721'
+    url: http://www.gutenberg.org/2009/agents/34721
+    wikipedia: https://en.wikipedia.org/wiki/Herbert_Millingchamp_Vaughan
+description: ''
+gutenberg_issued: '2023-11-22'
+identifiers:
+  gutenberg: '72198'
+language: en
+pgterms:marc904: https://archive.org/details/meleagerfantasy00vaug/page/n5/mode/2up
+pgterms:marc905: 20210110120059vaughanfsa
+pgterms:marc906: '1916'
+pgterms:marc907: EN
+production_note: Charlene Taylor, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bMartin Secker, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Kings and rulers -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Meleager : $b A fantasy'
+url: http://www.gutenberg.org/ebooks/72198
