@@ -1,5 +1,8 @@
 _repo: Meleager-b-A-fantasy_72198
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72198-h/images/cover.jpg
 creator:
   author:
     agent_name: Vaughan, Herbert M. (Herbert Millingchamp)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34721
     wikipedia: https://en.wikipedia.org/wiki/Herbert_Millingchamp_Vaughan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72198#Meleager-b-A-fantasy
 gutenberg_issued: '2023-11-22'
 identifiers:
   gutenberg: '72198'
